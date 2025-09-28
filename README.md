@@ -1,9 +1,9 @@
 <h1>Day 29 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
 <p>For the Day 29 challenge, I created a Password Manager that allows you to store your account details and generate complex passwords for you! This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
-  <li>tkinter Library and Graphical User Interface</li>
+  <li>tkinter library and Graphical User Interface</li>
   <li>conditional statements</li>
-  <li>functions</li>
+  <li>pyperclip library that allowed me to automatically copy the randomly generated passowrd</li>
 </ul>
 
 > [!TIP]
